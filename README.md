@@ -122,4 +122,4 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 
 ## Repositórios da New Design
 
-- [Fórum](https://github.com/dgcmf/newdesign.github.io/)
+- [Fórum](https://github.com/dgcmf/newdesign.github.io/issues)
